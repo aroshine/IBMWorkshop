@@ -1,4 +1,4 @@
-# IBMWorkshop
+# IBMBluemixWorkshop
 Prepared for the IBM Bluemix workshop.
 Created a ToDo-list app with Node and Angular.
 ---

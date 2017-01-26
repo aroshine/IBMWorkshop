@@ -1,6 +1,6 @@
 # IBMWorkshop
 Prepared for the IBM Bluemix workshop.
-Create a ToDo-list app with Node and Angular.
+Created a ToDo-list app with Node and Angular.
 ---
 Storing todos in a MongoDB using Mongoose
 Using the Express framework
